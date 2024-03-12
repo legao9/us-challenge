@@ -1,0 +1,10 @@
+/* VideoPlayer.css */
+.video-player {
+    background-color: #f0f0f0; /* Set your default background color here */
+    transition: background-color 0.3s ease;
+  }
+  
+  .video-player.playing {
+    background-color: #ffcc00; /* Set the background color when playing */
+  }
+  

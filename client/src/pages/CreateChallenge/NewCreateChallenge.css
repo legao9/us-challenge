@@ -1,0 +1,111 @@
+/* .container {
+    width: 100vw;
+    background-color: grey;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .form{
+    width: 60%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 5px;
+    border:1px solid rgb(100, 100, 100)
+  }
+  .form h1{
+    font-size: 20px;
+    font-weight: 800;
+  
+  }
+  
+  .input-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+  }
+  .input-div input{
+    max-width: 60%;
+  }
+  .input-div input:focus{
+    outline: none;
+  
+  }
+  .input-div input::placeholder{
+    font-size: 13px;
+  }
+  .input-div input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .input-div button{
+    background: green;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: none;
+    outline: none;
+    border-radius:3px ;
+  }
+  .todo-list{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    overflow-y: scroll;
+    
+  }
+  .todo-list::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .todo-list::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  .todo-list::-webkit-scrollbar-thumb {
+    background: grey; 
+    border-radius: 10px;
+  }
+  
+  .todo-list::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
+  .single-item{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+  }
+  .single-item button{
+    background: rgb(187, 69, 69);
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: none;
+    outline: none;
+    border-radius:3px ;
+  }
+  @media screen and (max-width: 768px) {
+    .input-div{
+      flex-direction: column;
+      align-items: start;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .input-div input:focus{
+      outline: none;
+  
+    }
+    .input-div input{
+      max-width: 90%;
+    }
+    
+  } */

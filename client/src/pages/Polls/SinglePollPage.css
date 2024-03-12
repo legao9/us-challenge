@@ -1,0 +1,46 @@
+/* PollCard.css */
+
+.poll-card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .poll-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .poll-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .poll-card li {
+    margin-bottom: 5px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .share-button,
+  .comment-button {
+    padding: 10px;
+    border: none;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .share-button:hover,
+  .comment-button:hover {
+    background-color: #2980b9;
+  }
+  

@@ -1,0 +1,29 @@
+.create-challenge {
+
+    margin: 0px 50px;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid black
+}
+
+.challenge-label {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.challenge-time-input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.challenge-next-button {
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+}

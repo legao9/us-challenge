@@ -1,0 +1,22 @@
+/* .poll-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 20px;
+  }
+  .poll-quetions{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }
+  .poll-quetions > input{
+    width: fit-content;
+  }
+  .poll-section {
+    width: 45%;
+  }
+  
+  .option {
+    margin-bottom: 10px;
+  }
+   */
